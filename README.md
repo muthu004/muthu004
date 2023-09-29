@@ -8,4 +8,4 @@
 </p>
 <h3 align="left">Languages and tools:</h3>
 <p align="left">
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="40" height="40"/> </a></p>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="Flutter" width="40" height="40"/> </a></p>

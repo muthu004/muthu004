@@ -15,7 +15,8 @@
 
 <h3 align="left">Languages and tools:</h3>
 <p align="left"> <a href="https://flutter.dev/" target="blank" > <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/> </a>
-  <a href="https://developer.android.com/studio" target="blank" > <img align="center" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" alt="Android Studio" width="50" height="50"/> </a>  
+<a href="https://dart.dev/" target="blank" > <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/> </a>
+<a href="https://developer.android.com/studio" target="blank" > <img align="center" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" alt="Android Studio" width="50" height="50"/> </a>  
 <a href="https://www.adobe.com/express/" target="blank"> <img align="center"src="https://store-images.s-microsoft.com/image/apps.48249.14075264175091512.e6069598-be57-4d96-bc28-bbca35469576.15acb55f-0e71-4ece-a5ac-d02eeefef83f" alt="Adobe express" width="50" height="50"/> </a>
 <a href="https://www.oracle.com/in/java/" target="blank"> <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/> </a>
 <a href="https://www.canva.com/" target="blank"> <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="50" height="50"/> </a>

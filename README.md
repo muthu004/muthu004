@@ -9,9 +9,6 @@
 " height="30" width="40" /></a>
 
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muthu004&label=Profile views&color=0e75b6&style=flat" alt="Muthukumar V" /> </p>
-</p>
-
 
 <h3 align="left">Languages and tools:</h3>
 <p align="left"> <a href="https://flutter.dev/" target="blank" > <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/> </a>

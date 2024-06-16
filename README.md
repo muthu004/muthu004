@@ -24,6 +24,8 @@
 <a href="https://cloud.google.com/" target="blank"> <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/> </a>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="blank"> <img align="center"src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg" alt="Photoshop" width="50" height="50"/> </a>
 <a href="" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt=""  width="50" height="50" /> </a></p>
+<a href="" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt=""  width="50" height="50" /> </a></p>
+
 
 <a href="" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt=""  width="50" height="50" /> </a></p>
 
